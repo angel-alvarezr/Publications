@@ -6,7 +6,7 @@
 The final publication is available at IEEE Xplore via https://doi.org/10.1109/DCIS.2016.7845378.
 
 
-* Á. Álvarez, Í. Ugarte, V. Fernández and P. Sánchez, **"OpenMP Dynamic Device Offloading in Heterogeneous Platforms"**, *OpenMP: Conquering the Full Hardware Spectrum. IWOMP 2019.* Lecture Notes in Computer Science, vol 11718. Springer, Cham
+* Á. Álvarez, Í. Ugarte, V. Fernández and P. Sánchez, **"OpenMP Dynamic Device Offloading in Heterogeneous Platforms"**, *OpenMP: Conquering the Full Hardware Spectrum. IWOMP 2019.* Lecture Notes in Computer Science, vol 11718. Springer, Cham.
 
 The final publication is available at Springer via https://doi.org/10.1007/978-3-030-28596-8_8.
 
