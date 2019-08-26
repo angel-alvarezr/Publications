@@ -8,7 +8,7 @@ The final publication is available at IEEE Xplore via https://doi.org/10.1109/DC
 
 * Á. Álvarez, Í. Ugarte, V. Fernández and P. Sánchez, **"OpenMP Dynamic Device Offloading in Heterogeneous Platforms"**, *15th International Workshop on OpenMP (IWOMP)*, Auckland, New Zealand, September 2019.
 
-The final publication is available at Springer via [not available yet].
+The final publication is available at Springer via https://doi.org/10.1007/978-3-030-28596-8_8.
 
 ## Disclaimer
 
